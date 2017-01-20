@@ -5,3 +5,23 @@ RPM
 ESC
 BLDC
 ISR (not interrupts!!)
+PFC (Primary FC)
+SFC (Secondary FC)
+HDMI
+USB
+SoC
+LIDAR
+ADC
+PCB
+HMI
+POSIX
+API
+UART
+ZigBee (r)
+802.15.4
+FTDI (r)
+TRTP
+UDP
+Multicast
+IP
+Wireshark
